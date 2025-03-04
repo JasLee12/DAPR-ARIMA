@@ -1,5 +1,5 @@
 # Prediction of stablecoins value
-This repository contains my part of a project with DAC in 2022-2023. 
+This repository contains my part of a project with DAC in 2021-2022. 
 
 ## Objective
 The objective of the project is to test the possibility of using ARIMA to consistently predict the future DAPR values in stablecoins liquidity pools.
