@@ -28,4 +28,4 @@ We had similar results with the rest of the team. As such, we concluded that in 
 
 ### Future Considerations
 1. Perhaps we could consider enhancing our models, accounting for the extremely volatile nature of liquidity pools, by using models such as GARCH to estimate volatility.
-2. Prior to this project, none of us have much experience or interaction with cryptocurrency and liquidity pools. We had a short crashcourse and research to help but it is difficult without domain knowledge. As such, our approach of a univariate time series is likely wrong. We should consider what factors could influence DAPR values and take them into account, it could possibly contribute to a higher prediction accuracy. 
+2. Prior to this project, none of us have much experience or interaction with cryptocurrency and liquidity pools. We had a short crashcourse and research to help but it is difficult without domain knowledge. As such, our approach of a univariate time series is likely the wrong direction. We should consider what factors could influence DAPR values and take them into account, it could possibly contribute to a higher prediction accuracy. 
